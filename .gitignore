@@ -1,5 +1,13 @@
-# Ignore raw dataset folder
+# Ignore myenv
+myenv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore raw dataset and models folder
 raw dataset/
+models/
+xgb_models/
 
 # Ignore all CSV files
 *.csv
