@@ -8,6 +8,7 @@ __pycache__/
 raw dataset/
 models/
 xgb_models/
+split_datasets/
 
 # Ignore all CSV files
 *.csv
