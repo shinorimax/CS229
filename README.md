@@ -13,5 +13,10 @@ This repository contains the implementation of our final project, including neur
 - **run.py**: Includes logistic regression code used in the milestone.
 - **stacking_implementation.ipynb**: Contains the implementation of stacking.
 - **validate_results.ipynb**: Contains code for calculating mean and variance of signal significance of stacking model predictions.
+- **lgbm_model.pkl**: Model file for LightGBM model used for stacking.
+- **lgbm_rf_model.pkl**: Model file for LightGBM RF model used for stacking.
+- **mlp_sklearn.pkl**: Model file for MLP model used for stacking.
+- **stacking_model.pkl**: Model file for final ensemble model.
+- **stacking_model_cv.pkl**: Model file for final ensemble model trained with more CV.
 
 This repository serves as a comprehensive implementation of different machine learning approaches used in our final project.
